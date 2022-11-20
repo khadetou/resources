@@ -186,6 +186,7 @@
 | [Color Hex](https://www.color-hex.com) | Color-hex gives information about colors including color models (RGB,HSL,HSV and CMYK) and generates a simple css code for the selected color. |
 | [FarbVelo](https://farbvelo.elastiq.ch/) | A random color palette generator |
 | [Veranda Color](https://verandacolor.com) | Browse color palettes made by other designers, generate and submit your own |
+| [Branition Colors](https://branition.com/colors)| Hand-curated collection of color palettes best fitted for branding. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
